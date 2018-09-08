@@ -15,6 +15,6 @@ require 'pry'
   # }
 
 def remove_strawberry(contacts)
-  contacts[Freddy Mercury].delete("strawberry")
+  contacts["Freddy Mercury"].delete("strawberry")
 
 end
